@@ -1,6 +1,6 @@
 # GET: /voters/:proposalId
 
-## VoterProposalRequest
+#### VoterProposalRequest
 
 The request to the Voter Proposal API can specify a number of filters, such as which accounts to retrieve information about.
 

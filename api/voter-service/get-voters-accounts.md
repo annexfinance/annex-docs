@@ -1,6 +1,6 @@
 # GET: /voters/accounts
 
-## VoterAccountsRequest
+#### VoterAccountsRequest
 
 The voter accounts API returns information about all accounts participating in the vote.
 
@@ -36,4 +36,6 @@ The voter accounts API returns information about all accounts participating in t
 | string | `votes` | Votes |
 | datetime | `createdAt` | Created timestamp |
 | datetime | `updatedAt` | Updated timestamp |
+
+
 

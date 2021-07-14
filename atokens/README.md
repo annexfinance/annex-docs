@@ -1,4 +1,4 @@
-# ATokens
+# STokens
 
 Each asset supported by the Annex Protocol is integrated through a aToken contract, which is an [EIP-20](https://eips.ethereum.org/EIPS/eip-20) compliant representation of balances supplied to the protocol. By minting aTokens, users \(1\) earn interest through the aToken's exchange rate, which increases in value relative to the underlying asset, and \(2\) gain the ability to use aTokens as collateral.
 

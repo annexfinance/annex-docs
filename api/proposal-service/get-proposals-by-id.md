@@ -51,3 +51,5 @@ The API response contains the proposal data of the given proposal id.
 | uint32 | `voterCount` | Voter count |
 | uint32 | `blockNumber` | Last calculated block number |
 
+
+

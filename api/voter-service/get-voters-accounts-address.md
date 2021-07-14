@@ -1,6 +1,6 @@
 # GET: /voters/accounts/:address
 
-#### VoterAccountsRequest
+## VoterAccountsRequest
 
 The request to the Voter accounts API can retrieve information about the certain account.
 
@@ -24,6 +24,4 @@ The request to the Voter accounts API can retrieve information about the certain
 | uint32 | `balance` | SToken balance of address |
 | array | `delegates` | Array of `Delegates` |
 | array | `txs` | Array of `Transfer and vote transactions` |
-
-
 

@@ -1,6 +1,6 @@
 # GET: /voters/history/:address
 
-#### VoterHistoryRequest
+## VoterHistoryRequest
 
 The request to the Voter History API can retrieve the vote history of the address.
 

@@ -15,5 +15,3 @@ Fetches the current Ether balance of a provided Ethereum address.
 })().catch(console.error);
 ```
 
-
-

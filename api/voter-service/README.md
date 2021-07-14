@@ -16,5 +16,3 @@ fetch("https://api.annex.finance/api/voters/history/:address");
 fetch("https://api.annex.finance/api/voters/:proposalId");
 ```
 
-
-

@@ -8,5 +8,3 @@ These methods facilitate interactions with the Governor smart contract.
 
 {% page-ref page="create-vote-signature.md" %}
 
-
-

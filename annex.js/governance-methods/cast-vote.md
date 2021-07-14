@@ -16,5 +16,3 @@ const annex = new Annex(window.ethereum);
 })().catch(console.error);
 ```
 
-
-

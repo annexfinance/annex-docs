@@ -16,9 +16,3 @@ These methods facilitate interactions with the ANN token smart contract.
 
 {% page-ref page="create-delegate-signature.md" %}
 
-
-
-
-
-
-

@@ -18,5 +18,3 @@ Makes a request to the MarketHistoryService API. The market history service retr
 })().catch(console.error);
 ```
 
-
-

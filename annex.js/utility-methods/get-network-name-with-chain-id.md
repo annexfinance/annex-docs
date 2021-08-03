@@ -9,5 +9,3 @@ Gets the name of an BSC network based on its chain ID.
 console.log('Testnet : ', Annex.util.getNetNameWithChainId(3));
 ```
 
-
-

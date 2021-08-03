@@ -61,5 +61,3 @@ The Proposal API returns a list of proposals that match the given filters on the
 | uint32 | `voterCount` | Voter count |
 | uint32 | `blockNumber` | Last calculated block number |
 
-
-

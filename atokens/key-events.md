@@ -8,5 +8,3 @@
 | `RepayBorrow(address payer, address borrower, uint repayAmount, uint accountBorrows, uint totalBorrows)` | Emitted upon a successful [Repay Borrow](repay-borrow.md). |
 | `LiquidateBorrow(address liquidator, address borrower, uint repayAmount, address aTokenCollateral, uint seizeTokens)` | Emitted upon a successful [Liquidate Borrow](liquidate-borrow.md). |
 
-
-

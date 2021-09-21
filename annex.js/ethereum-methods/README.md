@@ -8,5 +8,3 @@ These methods facilitate interactions with the Ethereum blockchain.
 
 {% page-ref page="get-balance.md" %}
 
-
-

@@ -13,5 +13,3 @@ Get the amount of ANN tokens accrued but not yet claimed by an address.
 })().catch(console.error);
 ```
 
-
-

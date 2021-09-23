@@ -2,7 +2,7 @@
 
 You can view all your auction bid in Transaction History section.
 
-![](../../.gitbook/assets/5_bid.png)
+![](../../.gitbook/assets/5_bid%20%281%29.png)
 
 If you want to cancel any bid. Select that bid by clicking on checkbox.
 

@@ -6,7 +6,7 @@ Click on Auction in left menu
 
 Click on Live sub-menu:
 
-![](../../.gitbook/assets/live-auction.png)
+![](../../.gitbook/assets/live-auction%20%281%29.png)
 
 You will see all auction on which you can place bid. Select anyone auction or click on Enter:
 
@@ -34,7 +34,7 @@ You will be able to see your bid like below in Auction Progress section:
 
 Similarly, Auction User Transaction History table will be updated as per latest bid:
 
-![](../../.gitbook/assets/5_bid%20%281%29.png)
+![](../../.gitbook/assets/5_bid%20%282%29.png)
 
 Transaction History shows all bid on this auction. You can filter your bid by checking the Show my orders only.
 

@@ -86,7 +86,7 @@
   * [GovernanceService](api/governanceservice/README.md)
     * [GET: /governance/annex](api/governanceservice/get-governance-annex.md)
     * [GET: /governance/proposals](api/governanceservice/get-governance-proposals.md)
-    * [GET: /governance/proposal\_vote\_receipts](api/governanceservice/get-governance-proposal_vote_receipts.md)
+    * [GET: /governance/proposal\_vote\_receipts](api/governanceservice/get-governance-proposal\_vote\_receipts.md)
     * [GET: /governance/accounts](api/governanceservice/get-governance-accounts.md)
   * [Shared Data Types](api/shared-data-types.md)
 * [Annex.js](annex.js/README.md)
@@ -141,4 +141,4 @@
 * [Security](security/README.md)
   * [Formal Verification](security/formal-verification.md)
   * [Bug Bounty Program](security/bug-bounty-program.md)
-
+  * [Guardian](security/guardian.md)

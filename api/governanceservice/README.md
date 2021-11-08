@@ -1,10 +1,10 @@
 # GovernanceService
 
-Note: This service is experimental \(alpha\) and subject to change.
+Note: This service is experimental (alpha) and subject to change.
 
 The Governance Service includes three endpoints to retrieve information about ANN accounts, governance proposals, and proposal vote receipts. You can use the APIs below to pull data about the Annex governance system:
 
-```text
+```
   // Retreives a list of governance proposals
   fetch("https://api.annex.finance/api/governance/proposals");
 
@@ -15,9 +15,14 @@ The Governance Service includes three endpoints to retrieve information about AN
   fetch("https://api.annex.finance/api/governance/accounts");
 ```
 
-{% page-ref page="get-governance-proposals.md" %}
+{% content-ref url="get-governance-proposals.md" %}
+[get-governance-proposals.md](get-governance-proposals.md)
+{% endcontent-ref %}
 
-{% page-ref page="get-governance-proposal\_vote\_receipts.md" %}
+{% content-ref url="get-governance-proposal_vote_receipts.md" %}
+[get-governance-proposal\_vote\_receipts.md](get-governance-proposal\_vote\_receipts.md)
+{% endcontent-ref %}
 
-{% page-ref page="get-governance-accounts.md" %}
-
+{% content-ref url="get-governance-accounts.md" %}
+[get-governance-accounts.md](get-governance-accounts.md)
+{% endcontent-ref %}

@@ -6,7 +6,7 @@ You can now stake your ANN tokens in the auto compounding pool
 
 **Auto ANN Compounding**
 
-![](<.gitbook/assets/Capture2 (1).png>)
+![](<../.gitbook/assets/Capture2 (1).png>)
 
 #### Auto ANN
 
@@ -17,7 +17,7 @@ You can now stake your ANN tokens in the auto compounding pool
 
 ### What are the fees for the Auto ANN Pool?
 
-![](<.gitbook/assets/Annex Vaults - Flow Diagram (1).svg>)
+![](<../.gitbook/assets/Annex Vaults - Flow Diagram (1).svg>)
 
 **Deposit fee**
 

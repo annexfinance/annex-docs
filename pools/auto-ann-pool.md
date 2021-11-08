@@ -15,7 +15,7 @@ You can now stake your ANN tokens in the auto compounding pool
 * A small performance fee is subtracted from your earnings each time the pool is automatically compounded.
 * An unstaking fee applies when you unstake within 3 days of manually staking.
 
-![](<../.gitbook/assets/Annex Vaults - Flow Diagram (1).svg>)
+![Annex auto compounding vaults](<../.gitbook/assets/Annex Vaults - Flow Diagram (2) (1).svg>)
 
 ### What are the fees for the Auto ANN Pool?
 

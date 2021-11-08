@@ -6,4 +6,4 @@ You can now stake your ANN tokens in the auto compounding pool
 
 **Auto ANN Compounding**
 
-![](broken-reference)
+![](.gitbook/assets/Capture.PNG)

@@ -142,5 +142,4 @@
   * [Formal Verification](security/formal-verification.md)
   * [Bug Bounty Program](security/bug-bounty-program.md)
   * [Guardian](security/guardian.md)
-* [Pools](pools/README.md)
-  * [Auto ANN Pool](pools/auto-ann-pool.md)
+* [Auto ANN Pool](auto-ann-pool.md)
